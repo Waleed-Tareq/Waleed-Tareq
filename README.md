@@ -20,8 +20,8 @@ I'm a software engineering graduate in Amman, Jordan. I build web applications w
 
 - 🎓 B.Sc. in Software Engineering, Philadelphia University (2026)
 - 💻 Full Stack Development intern at CDC Smart Systems
-- 🌐 IEEE Web Master Division Leader, supporting website development and coordination
-- 🧩 Solved 300+ programming and problem-solving challenges
+- 📊 Samsung Electronics B2B internship in data analysis and business development (Oct 2025 – Mar 2026)
+- 🧩 Participated in multiple problem-solving competitions, including JCPC and the Code Crafters Club contest
 
 ### Connect
 
